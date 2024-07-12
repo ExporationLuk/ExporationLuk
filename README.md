@@ -1,7 +1,7 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning Godot 4: GDScript 
 
-Life long learner --- 
 [![roadmap.sh](https://roadmap.sh/card/tall/66615519b998f3b3c7dde8ba?variant=dark)](https://roadmap.sh)
 
 <!--
