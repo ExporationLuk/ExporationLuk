@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+Life long learner --- 
+[![roadmap.sh](https://roadmap.sh/card/tall/66615519b998f3b3c7dde8ba?variant=dark)](https://roadmap.sh)
+
 <!--
 **ExporationLuk/ExporationLuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
