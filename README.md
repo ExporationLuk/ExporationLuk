@@ -1,5 +1,5 @@
 ## Hi there 👋
- [![roadmap.sh](https://roadmap.sh/card/wide/66615519b998f3b3c7dde8ba?variant=dark)](https://roadmap.sh)
+ [![roadmap.sh](https://roadmap.sh/card/tall/66615519b998f3b3c7dde8ba?variant=dark&roadmaps=computer-science)](https://roadmap.sh)
 <!--
 **ExporationLuk/ExporationLuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
